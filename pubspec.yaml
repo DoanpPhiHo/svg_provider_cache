@@ -1,5 +1,5 @@
 name: svg_provider_cache
-description: A new Flutter package project.
+description: Generate image provider from svg path, uses flutter_svg and http (for network paths) as a dependency.
 version: 0.0.1
 homepage: https://github.com/DoanpPhiHo/svg_provider_cache
 
